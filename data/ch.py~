@@ -1,0 +1,7 @@
+import re
+F=open("data4.txt","r+")
+f=open("data5.txt","w+")
+for line in F:
+  line2=re.sub(r'[0-9]{9}\,.*',"",line)
+  f.write(line2)
+   
