@@ -1,0 +1,31 @@
+Requirements-
+1. JAVA 
+Installing java-
+
+step 1 download-
+https://java.com/download
+
+step2 after download install from setup-
+
+step3- set environment variable-
+
+setx /M JAVA_HOME "path to jdk installed"
+
+example-
+setx /M JAVA_HOME "C:\Program Files (x86)\Java\jdk1.6.0_17"
+
+2.Python2.7 
+
+install python 2.7 from-
+ 
+https://www.python.org/downloads/release/python-2713/
+
+adding python to path-
+
+setx path "%path%";"path to python27.exe"
+
+adding java to path-
+
+
+setx path "%path%";"path to jdk as above"
+

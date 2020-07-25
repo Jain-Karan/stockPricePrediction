@@ -1,0 +1,28 @@
+requirements for linux-
+
+for ubuntu-
+
+1.JAVA
+
+No need if java is already installed
+
+installation-
+1.open terminal.
+2.sudo add-apt-repository ppa:webupd8team/java
+3.sudo apt-get update.
+4.sudo apt install oracle-java8-installer
+5.follow instructions to install.
+6.javac -version
+7.sudo apt install oracle-java8-set-default
+
+done
+
+2.Python 
+
+No need if already installed
+
+installation-
+1.open terminal
+2.sudo apt-get install python
+
+done
