@@ -8,9 +8,6 @@ cd "path"/src          //give the path where project folder is present.
 type-
 sh script.sh
 
-follow the instructions and see the results.
-
-
 For windows-
 
 open src folder-
